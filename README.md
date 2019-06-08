@@ -1,6 +1,6 @@
 # reinforcement-learning
 
-## 摘自  [莫烦 Python](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+## 摘自  [莫烦](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) 请访问作者主站
 
 
 <p align="center">
